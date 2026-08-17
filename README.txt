@@ -1,0 +1,1 @@
+Open index.html. Replace the Discord/contact placeholder before publishing.
