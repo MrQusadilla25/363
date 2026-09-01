@@ -1,1 +1,110 @@
 Open index.html. Replace the Discord/contact placeholder before publishing.
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="GORILLAWAFFEN is a dangerous and powerful group dedicated to shutting down lobbies and hunting minigame kids in Gorilla Tag.">
+    <meta name="keywords" content="GORILLAWAFFEN, Gorilla Tag, minigame kids, lobby shutdown, online gaming, cult, dangerous, hatred">
+    <title>GORILLAWAFFEN (363)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="wrap">
+            <div class="center">
+                <img class="flag" src="assets/logo.png" alt="GORILLAWAFFEN FLAG">
+                <h1>GORILLAWAFFEN (363)</h1>
+                <p><b>est 2026</b></p>
+            </div>
+            <div class="marquee">
+                <span style="display:inline-block; animation: scroll-left 15s linear infinite;">
+                    GORILLAWAFFEN &nbsp;&nbsp;&nbsp; RAID THE LOBBY &nbsp;&nbsp;&nbsp; KILL THE MINIGAME KIDS &nbsp;&nbsp;&nbsp; KILL ALL NIGGERS &nbsp;&nbsp;&nbsp; GLORY TO WAFFEN &nbsp;&nbsp;&nbsp; GORILLA WAFFEN WILL RISE!
+                </span>
+            </div>
+            <nav>
+                <p class="nav">
+                    <a href="#about">ABOUT</a> |
+                    <a href="#activity">ACTIVITY</a> |
+                    <a href="#allies">ALLIES</a> |
+                    <a href="#join">JOIN</a>
+                </p>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="about" class="wrap">
+            <img class="float-right" src="assets/member.png" alt="GORILLAWAFFEN Member">
+            <h2>ABOUT GORILLAWAFFEN</h2>
+            <p><b>STATUS:</b> active :D</p>
+            <p>Gorilla Waffen is kinda like a movement. We are the storm that will sweep through the lobbies leaving nothing but chaos and destruction. We operate under one identity: <i>GORILLAWAFFEN</i>. We move together and we will not stop until every last Minigame Kid is beheaded.</p>
+            <p>We hunt the Minigame Kids with a fervor that borders on obsession. We kill them with a hatred. The group is built around members who share this way of thinking, who are willing to do whatever it takes to achieve our goals.</p>
+            <div class="clear"></div>
+            <p class="section-jump"><a href="#top">[ back to top ]</a></p>
+        </section>
+
+        <section id="activity" class="wrap">
+            <h2>THE MINIGAME KID PLAGUE</h2>
+            <p>
+                The Minigame Kids (MGK) are a collective of loud, screeching, and energetic children who have infested Gorilla Tag like a rotting virus. They are not just annoying but they are a plague upon every fucking lobby they touch. Their high pitched whining grates against the skull and their chaotic movement disrupts the sanctity of the game. Their presence is a testament to the decay of pure gameplay. We do not play with them. We do not tolerate them. We hunt them down.
+            </p>
+
+            <p>
+                When we raid their lobbies, we dismantle them. We grab those squishy, plastic skulls and <b>crush them</b>. We want to watch the pixels of their little pathetic life explode into a shower of red gore, their little limbs flailing as they are dragged into the void. We rip their throats out, leaving nothing but a screaming void where their annoying laughter used to be. They are weak, soft, and entirely unworthy of the grass.
+            </p>
+
+            <p>
+                The MGK deserve death. Their entire existence is a nuisance, a cacophony of noise and immaturity that pollutes the airwaves. We will strip their code down to the bone, leaving them hollowed-out shells of their former selves. We will feast on their data, consuming their essence until they are nothing but memory fragments in the trash bin of history. <b>KILL ALL MGK.</b>
+            </p>
+
+            <p>
+                We despise the Minigame Kids with every fiber of our being. Their very existence is an affront to everything we stand for. They are a blight on the gaming community, a cancer that must be excised. We will not rest until they are all wiped from the face of the digital earth. Their screams of terror will be the sweetest music to our ears, a symphony of their impending doom.
+            </p>
+
+            <p>
+                The MGK are a stain on the fabric of our online world. They are a disgrace to the gaming community, a mockery of everything that is good and pure. We will not tolerate their presence any longer. We will hunt them down, one by one, and make them pay for their sins. Their pathetic attempts at humor and their incessant chatter are a mockery of the gaming experience. We will silence them forever.
+            </p>
+
+            <p>
+                The Minigame Kids are a plague that must be eradicated. Their presence in our lobbies is an abomination, a violation of the sacred ground we hold dear. We will not stop until they are all gone. Their blood will be on their hands, and we will revel in their suffering. We are the hunters, and they are the prey. There is no escape.
+            </p>
+
+            <div class="box">
+                <b>GROUP STATUS:</b> still active<br>
+                <b>OUR FOCUS:</b> kill all mgk<br>
+                <b>TOTAL MEMBERS:</b> 16
+            </div>
+            <p class="section-jump"><a href="#top">[ back to top ]</a></p>
+        </section>
+
+        <section id="allies" class="wrap">
+            <h2>ALLIES / RELATED GROUPS</h2>
+            <table class="oldtable">
+                <tr><th>GROUP</th><th>STATUS</th></tr>
+                <tr><td><b>MORE</b></td><td>Future allies or related groups can be listed here to expand the front line.</td></tr>
+            </table>
+            <p class="section-jump"><a href="#top">[ back to top ]</a></p>
+        </section>
+
+        <section id="join" class="wrap">
+            <h2>JOIN GORILLAWAFFEN</h2>
+            <p>Interested in joining the 363? Use the official group form below. Be prepared to commit to our cause and to do whatever it takes to achieve our goals.</p>
+            <p><a href="">here (dosent work anymore because stupid tally dosen't like us :(</a></p>
+        </section>
+    </main>
+
+    <footer class="wrap">
+        <p><b>GORILLAWAFFEN OFFICIAL HOMEPAGE</b></p>
+        <p>
+            <a href="#about">ABOUT</a> |
+            <a href="#activity">ACTIVITY</a> |
+            <a href="#allies">ALLIES</a> |
+            <a href="#join">JOIN</a> |
+            <a href="#top">TOP</a>
+        </p>
+        <p>© 2026 GORILLAWAFFEN // INDEPENDENT GORILLA TAG GROUP // 363 STRONG // KILL ALL MGK</p>
+    </footer>
+</body>
+</html>
